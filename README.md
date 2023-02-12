@@ -4,7 +4,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquebruno12&show_icons=true&theme=highcontrast)](https://github.com/enriquebruno12/enriquesoares/edit/main/)
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Enrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Enrique-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+   <img align="center" alt="Enrique-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+   <img align="center" alt="Enrique-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+   
 </div>
   
   ##
