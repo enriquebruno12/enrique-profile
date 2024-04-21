@@ -1,4 +1,4 @@
-## Hi! I'm Enrique Soares, a data science beginner!
+## Hey there! I'm Enrique Soares, a data science student!
 
 [![Enrique Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquebruno12&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/enriquebruno12/enriquesoares/edit/main/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquebruno12&show_icons=true&theme=highcontrast)](https://github.com/enriquebruno12/enriquesoares/edit/main/)
